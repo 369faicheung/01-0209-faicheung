@@ -16,3 +16,5 @@ npm install
 ```bash
 npm test
 ```
+
+3. Open `02-0216-faicheung.html`
